@@ -27,4 +27,4 @@ Author:
 
   * Piotr Adamski [@mcveat](https://twitter.com/mcveat)
 
-  Based on the java implementation by Steve Jiang [@sjiang](https://twitter.com/sjiang) and using agent data from BrowserScope
+  Based on the [java implementation](https://github.com/ua-parser/uap-java) by Steve Jiang [@sjiang](https://twitter.com/sjiang) and using agent data from BrowserScope
