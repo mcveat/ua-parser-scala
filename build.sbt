@@ -13,3 +13,7 @@ libraryDependencies ++= Seq(
 unmanagedResourceDirectories in Compile += baseDirectory.value / "core"
 
 includeFilter in (Compile, unmanagedResources) := "regexes.yaml"
+
+unmanagedResourceDirectories in Test += baseDirectory.value / "core"
+
+includeFilter in (Test, unmanagedResources) := "*.yaml"
